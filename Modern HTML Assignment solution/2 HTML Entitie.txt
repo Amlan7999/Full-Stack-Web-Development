@@ -1,0 +1,17 @@
+HTML Entities:
+HTML entities are special codes that represent reserved characters, symbols, or characters with specific
+meanings in HTML. They are used to display characters that might otherwise be interpreted as HTML code or
+cause rendering issues in web browsers. HTML entities are written using an ampersand (&) followed by a
+specific code or name, and ending with a semicolon (;).
+
+5 Commonly Used HTML Entities:
+
+1. < - Less Than Sign (&lt)
+
+2. > - Greater Than Sign (&gt)
+
+3. & - Ampersand (&amp)
+
+4. " - Double Quotation Mark (&quot)
+
+5. ' - Single Quotation Mark (&apos)
